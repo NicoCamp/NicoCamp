@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoCamp
 - 👀 I’m interested in Web development and UI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JS
 - 📫 How to reach me: nicolascampana24@gmail.com
 
 <!---
